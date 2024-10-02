@@ -17,9 +17,9 @@ enableGitInfo = true
     # 页面语言，默认中文
     en = false
     # 英文首页标题，默认 'Virgo'
-    homeTitleEn = 'Walkssi'
+    homeTitleEn = 'Huaii'
     # 中文首页标题，默认 ‘一晌贪欢’
-    homeTitleZh = '遛达西'
+    homeTitleZh = '槐'
 
     # 激活暗色模式，
     # 由于静态页面的限制，我们使用浏览器本地存储来记忆该状态，
@@ -62,37 +62,43 @@ enableGitInfo = true
             path = '/nav'
             en = 'Nav'
             zh = '导航'
-            icon = '🎯'
+            #icon = '🎯'
         [params.menu.11]
             active = true
             path = '/search'
             en = 'Search'
             zh = '搜索'
-            icon = '🔎'
+            #icon = '🔎'
         [params.menu.22]
             active = true
             path = '/posts'
             en = 'Posts'
             zh = '文章'
-            icon = '📜'
+            #icon = '📜'
         [params.menu.33]
+            active = true
+            path = '/wiki'
+            en = 'Wiki'
+            zh = '百科'
+            #icon = '📖'
+        [params.menu.44]
             active = true
             path = '/archive'
             en = 'Archive'
             zh = '归档'
-            icon = '🎉'
-        [params.menu.44]
+            #icon = '🎉'
+        [params.menu.55]
             active = true
             path = '/notes'
             en = 'Notes'
             zh = '草稿'
-            icon = '⚗️'
-        [params.menu.55]
+            #icon = '⚗️'
+        [params.menu.66]
             active = true
             path = '/about'
             en = 'About'
             zh = '关于'
-            icon = '🐌' 
+            #icon = '🐌' 
     
     # 首页图片/文字
     [params.img]
