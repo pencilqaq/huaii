@@ -1,0 +1,4 @@
+[submodule "themes/hugo-theme-virgo"]
+	path = themes/hugo-theme-virgo
+	url = https://github.com/pencilqaq/hugo-theme-virgo.git
+	branch = 1.x
