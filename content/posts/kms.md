@@ -17,4 +17,4 @@ title: KMS 服务器
 > [Windsys Project](https://windsys.win/)**也许是最适合年轻人使用的第三方社区系统**
 >- **激活Office**
 >>    - 适用于批量许可版本的 Office LTSC 2021、Office 2019 和 Office 2016 (包括 Project 和 Visio)
-> [Office Tool Plus](https://otp.landian.vip/) 是一款 Office 小工具，可以帮助您部署 Office
+>>    - [Office Tool Plus](https://otp.landian.vip/) 是一款 Office 小工具，可以帮助您部署 Office
